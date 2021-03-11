@@ -48,6 +48,7 @@ header{
     font-size: 40px;
     display: flex;
     align-items: center;
+    background-color: darkorchid;
 }
 .umi{
     width: 400px;
@@ -101,8 +102,10 @@ h3{
     color: orangered;
 }
 
-li{
-    font-size: 20px;
+.midasi{
+    margin: 0 20%;
+}
+
 }
 h4{
     font-size: 22px;
@@ -149,6 +152,7 @@ h6{
 	line-height:50px;
 	margin-bottom:20px;
     color: black;
+}
 
 .si-zya-{
     border-left: 6px solid #0dbab5;
@@ -187,3 +191,10 @@ h6{
 }
 
 
+footer{
+    background-color: #0dbab5;
+    text-align: center;
+    padding-top: 20px 0;
+    margin-top: 100px;
+    font-size: 20px;
+}
