@@ -5,7 +5,7 @@
 
 header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 14px 40px;
     background: pink
@@ -14,6 +14,10 @@ header{
 .header-left{
     background-color: rgb(6, 39, 66);
     color: black;
+}
+
+.logo{
+    width: 60px;
 }
 
 .nav{
@@ -25,10 +29,6 @@ header{
     font-size: 20px;
     margin-right: 20px;
     text-decoration: none;
-}
-
-.logo{
-    width: 50px;
 }
 
 
