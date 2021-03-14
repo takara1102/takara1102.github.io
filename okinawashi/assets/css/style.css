@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    color: yellowgreen;
+    background-color: aqua;
+}
+
+h2 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.contents {
+    margin: 0 20px;
+}
+
+.eisa- {
+    margin: 0 20px;
+}
+
+.header1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 40px;
+}
+
+.utina- {
+    width: 300px;
+}
+
+.si-sa-2 {
+    width: 400px;
+}
+
+.header2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h4{
+    font-size: 40px;
+    padding: 20px 0 15px;
+    margin-bottom: 25px;
+    border-bottom: #1991ba solid 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.doubutu{
+    display: flex;
+    justify-content: center;
+}
+.kankou{
+    margin: 10px 5%;
+}
+
+.link{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+h5{
+    font-size: 40px;
+    padding: 30px 0 17px;
+    margin-bottom: 26px;
+    border-left: blue solid 20px;
+}
+
+.tyuou{
+    margin: 10px 5%;
+}
+
+.mikki{
+    display: flex;
+    justify-content: center;
+}
+
+.oki{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+h6{
+    font-size: 40px;
+    padding: 30px 0 17px;
+    margin-bottom: 26px;
+    border-left: brown solid 20px;
+}
+
+.music{
+    margin: 10px 5%;
+}
+
+.koza{
+    display: flex;
+    justify-content: center;
+}
+
+.town{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
