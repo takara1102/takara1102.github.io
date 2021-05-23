@@ -5,6 +5,11 @@ h1 {
     display: flex;
     justify-content: center;
 }
+@media screen and (max-width :768px){
+    h1{
+        font-size: 50px;
+    }
+}
 
 .rakuen{
     font-size: 30px;

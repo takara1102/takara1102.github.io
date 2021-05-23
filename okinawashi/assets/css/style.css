@@ -11,6 +11,12 @@ h1 {
     background-color: aqua;
 }
 
+@media screen and (max-width :768px){
+    h1{
+        font-size: 50px;
+    }
+}
+
 h2 {
     font-size: 50px;
     display: flex;
@@ -38,18 +44,48 @@ h3 {
     padding: 30px 40px;
 }
 
+@media screen and (max-width :768px){
+    .header1{
+        flex-direction: column;
+    }
+}
+
 .utina- {
     width: 300px;
 }
+@media screen and (max-width :768px){
+    .utina-{
+        width: 200px;
+    }
+}
+.chatan{
+    width: 200px;
+}
+
+@media screen and(max-width :768px) {
+    .chatan{
+        width: 100px;
+    }
+}
 
 .si-sa-2 {
-    width: 400px;
+    width: 300px;
+}
+@media screen and (max-width :768px){
+    .si-sa-2{
+        width: 200px;
+    }
 }
 
 .header2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+@media screen and (max-width :768px){
+    .header2{
+       flex-direction: column;
+    }
 }
 
 h4{
