@@ -1,0 +1,26 @@
+h1 {
+    font-size: 70px;
+    color: cornflowerblue;
+    background: orange;
+    display: flex;
+    justify-content: center;
+}
+
+.rakuen{
+    font-size: 30px;
+    border-left: green solid 30px;
+    background: blue;
+    display: flex;
+    justify-content: center;
+    border-right: blueviolet solid 30px;
+}
+
+.tounan{
+    display: flex;
+    justify-content: center;
+}
+
+.dannsei{
+    display: flex;
+    justify-content: center;
+}
